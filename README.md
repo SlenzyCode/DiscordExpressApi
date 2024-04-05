@@ -1,4 +1,3 @@
-
 # 🌐 DiscordExpressApi🚀
 Bu proje, Discord.js ve Express.js kullanarak basit bir API oluşturmayı ve bir Discord botu ile iletişim kurmayı göstermektedir. Express.js, web sunucusu oluşturmak için kullanılan minimalist bir çerçeve iken Discord.js, Discord botları oluşturmak için kullanılan bir kütüphanedir. Bu proje, Express.js'in sağladığı API üzerinden "Merhaba, dünya!" mesajını döndürmekte ve gelen verileri işleyerek geri döndürmektedir. Ayrıca, Axios kullanarak yapılan bir POST isteği ile API'ye veri gönderilmekte ve gelen cevap konsola yazdırılmaktadır.
 

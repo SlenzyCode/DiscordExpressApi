@@ -1,0 +1,25 @@
+{
+  "name": "slenzy",
+  "version": "1.0.0",
+  "description": "Slenzy - Github",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx ts-node src/index.ts",
+    "test": "npx ts-node src/test.ts"
+  },
+  "author": "SlenyCode",
+  "license": "MIT",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^20.12.4",
+    "axios": "^1.6.8",
+    "chalk": "^2.4.2",
+    "cors": "^2.8.5",
+    "discord.js": "^14.14.1",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21"
+  }
+}

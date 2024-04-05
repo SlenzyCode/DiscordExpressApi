@@ -1,0 +1,12 @@
+{
+    "bot": {
+        "token": "token"
+    },
+    "settings": {
+        "log_channel_id": "kanal_id"
+    },
+    "web": {
+        "port": 5000,
+        "domain": "http://localhost:5000"
+    }
+}

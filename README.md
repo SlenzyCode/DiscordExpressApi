@@ -5,7 +5,7 @@ Bu proje, Discord.js ve Express.js kullanarak basit bir API oluşturmayı ve bir
 - Hello world api: https://example.com/api/message
 - Post api: https://example.com/api/post
 
-### 📚 Kullanılan Kütüphaneler
+## 📚 Kullanılan Kütüphaneler
 
 - [Discord.js](https://npmjs.org/package/discord.js): Discord bot uygulaması oluşturmak için kullanılan bir kütüphane.
 - [Express.js](https://expressjs.com/): Web uygulamaları ve API'ler oluşturmak için kullanılan minimalist web çerçevesi.

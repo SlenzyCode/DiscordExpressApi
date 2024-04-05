@@ -19,7 +19,7 @@ Bu proje'yi ayağı kaldırmak için öncelikle `config.json` dosyasını doldur
 
 ## 🤝 Katkıda Bulunma 
 Bu proje'ye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz: 
-1. Projeyi `star`layarak beğenebilirsiniz. 
+1. Projeyi `star` atarak beğenebilirsiniz. 
 2. Projeyi kendi GitHub hesabınıza `fork`'leyebilirsiniz. 
 3. İstediğiniz değişiklikleri yaparak yeni bir dal (branch) oluşturun. 
 4. Yaptığınız değişiklikleri açıklayıcı bir şekilde commit'leyin. 
